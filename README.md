@@ -1,2 +1,2 @@
 # LLMOps-Practice
-LLMOps from zero
+LLMOps from Zero to Hero
